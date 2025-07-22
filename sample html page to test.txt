@@ -1,0 +1,1 @@
+echo "<h1>EC2 Backup Test Page</h1>" | sudo tee /var/www/html/index.html
